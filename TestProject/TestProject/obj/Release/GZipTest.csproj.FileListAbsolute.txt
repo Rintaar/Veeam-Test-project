@@ -1,0 +1,6 @@
+C:\Users\Black\source\repos\TestProject\TestProject\bin\Release\TestProject.exe.config
+C:\Users\Black\source\repos\TestProject\TestProject\bin\Release\TestProject.exe
+C:\Users\Black\source\repos\TestProject\TestProject\bin\Release\TestProject.pdb
+C:\Users\Black\source\repos\TestProject\TestProject\obj\Release\GZipTest.csproj.CoreCompileInputs.cache
+C:\Users\Black\source\repos\TestProject\TestProject\obj\Release\TestProject.exe
+C:\Users\Black\source\repos\TestProject\TestProject\obj\Release\TestProject.pdb
